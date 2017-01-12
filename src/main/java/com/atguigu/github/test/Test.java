@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("ooxx");
 		System.out.println("nihao..");
 		System.out.println("yyyy.");
+		System.out.println("aaa");
+		System.out.println("bbb");
 	}
 
 }
